@@ -16,17 +16,13 @@ This repository contains a collection of Jupyter notebooks and code from my univ
 
 | Folder | Description |
 | :--- | :--- |
-| [`/random_number_generation`](./random_number_generation) | Contains notebooks on implementing and testing various pseudo-random number generators (e.g., Linear Congruential Generator). |
-| [`/stochastic_processes`](./stochastic_processes) | Code for generating and visualizing paths of stochastic processes like Brownian Motion and Geometric Brownian Motion. |
-| [`/binomial_models`](./binomial_models) | Implementations of the Cox-Ross-Rubinstein (CRR) binomial tree model for option pricing. |
-| [`/monte_carlo`](./monte_carlo) | Core Monte Carlo simulations for financial pricing, including basic estimators. |
-| [`/variance_reduction`](./variance_reduction) | Notebooks demonstrating variance reduction techniques (Antithetic, Control Variates) applied to Monte Carlo option pricing. |
-| [`/black_scholes`](./black_scholes) | Analytical Black-Scholes option pricing formula, calculation of Greeks, and comparative analyses. |
-| [`/exotic_options`](./exotic_options) | Code for pricing path-dependent options (like Asian or Barrier options) using Monte Carlo and other methods. |
-| [`/term_project`](./term_project) | Final course project applying the learned concepts to a more complex financial problem. |
-| [`/data`](./data) | Folder for storing any sample market data or pre-generated results used in the notebooks. |
-| [`/utilities`](./utilities) | Helper modules and functions (e.g., for pricing payoffs, calculating statistics) used across other notebooks.
-
+| [`/lab1`](./lab1) | Contains notebooks on implementing and testing various pseudo-random number generators (e.g., Linear Generator). |
+| [`/lab2`](./lab2) | Code for generating and visualizing paths of stochastic processes like Brownian Motion. |
+| [`/lab3`](./lab3) | Implementations of the Cox-Ross-Rubinstein (CRR) binomial tree model for option pricing. |
+| [`/lab4`](./lab4) | Notebooks demonstrating variance reduction techniques (Antithetic, Control Variates) applied to Monte Carlo option pricing. |
+| [`/lab5`](./lab5) | Core Monte Carlo simulations for financial pricing with CRR model. |
+| [`/lab6`](./lab6) | Analytical Black-Scholes option pricing formula and comparative analyses. |
+| [`/lab7`](./lab7) | MCMC method analysis.
 ## Technologies Used
 
 *   **Python** (NumPy, SciPy, Matplotlib, Pandas)
